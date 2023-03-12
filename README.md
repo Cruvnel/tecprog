@@ -17,3 +17,6 @@ Dentro das linguagens que utilizam POO, nosso exercício foi
 feito com JavaScript. Utilizamos uma interface HTML para 
 visualizar a saída do programa, enquanto os passos de construção 
 de código foram descritos como comentários dentro do arquivo JavaScritp. 
+Tivemos dificuldade em inserir as relações com a instituição
+(Aluno, Professor, Coordenador, Diretor, Administrativo ou Vestibulando).
+Dessa forma, aguardamos a próxima aula para que possamos tirar algumas dúvidas.
